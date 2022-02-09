@@ -40,7 +40,7 @@
         android:layout_height="700dp"
         android:background="#FFEB3B"
         android:gravity="center_vertical"
-        android:text="@string/string_show_count"
+        android:text="@string/show_count"
         android:textAlignment="center"
         android:textSize="160sp"
         android:textStyle="bold"
